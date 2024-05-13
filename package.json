@@ -1,0 +1,1 @@
+{"name": "P-ControlAcceso", "description": "Bot que recibe los parametros del formulario xperience para validar si el usuario puede iniciar sesion correctamente y seguir con el proceso de backend correspondiente", "version": "1.0.0", "main": "P-ControlAcceso", "author": "Ivan Gil", "license": "MIT"}
