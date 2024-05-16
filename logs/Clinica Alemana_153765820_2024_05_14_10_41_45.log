@@ -1,0 +1,26 @@
+14-05-2024 10:41:46 | INFO | Bot: S-BackAlemana | Desc: Inicio el proceso
+14-05-2024 10:42:00 | TRACE | Bot: S-BackAlemana | Desc: Se cerro la ventana emergente aparente.
+14-05-2024 10:42:02 | TRACE | Bot: N-DescargarExamenes | Desc: Se ingreso a la opcion de Examenes
+14-05-2024 10:42:08 | TRACE | Bot: N-DescargarExamenes | Desc: Se cargan la cantidad de 29 examenes a descargar
+14-05-2024 10:42:57 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen  - 7 de septiembre de 2023, 16:09 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 7 de septiembre de 2023, 16:09/
+14-05-2024 10:43:48 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen  - 7 de septiembre de 2023, 14:31 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 7 de septiembre de 2023, 14:31/
+14-05-2024 10:44:39 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen  - 7 de septiembre de 2023, 14:01 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 7 de septiembre de 2023, 14:01/
+14-05-2024 10:45:30 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen 13 Exámenes de laboratorio disponibles - 3 de agosto de 2023, 08:54 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/13 Exámenes de laboratorio disponibles - 3 de agosto de 2023, 08:54/
+14-05-2024 10:46:19 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen 13 Exámenes de laboratorio disponibles - 1 de agosto de 2023, 11:37 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/13 Exámenes de laboratorio disponibles - 1 de agosto de 2023, 11:37/
+14-05-2024 10:46:22 | ERROR | Bot: N-DescargarExamenes | Desc: Fallo al descargar el examen 13 Exámenes de laboratorio disponibles - 13 de abril de 2022, 10:46 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/13 Exámenes de laboratorio disponibles - 13 de abril de 2022, 10:46/ | Error: setvar  
+14-05-2024 10:47:51 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen  - 7 de septiembre de 2021, 17:39 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 7 de septiembre de 2021, 17:39/
+14-05-2024 10:47:54 | ERROR | Bot: N-DescargarExamenes | Desc: Fallo al descargar el examen  - 7 de septiembre de 2021, 09:08 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 7 de septiembre de 2021, 09:08/ | Error: setvar  
+14-05-2024 10:48:07 | ERROR | Bot: N-DescargarExamenes | Desc: Fallo al descargar el examen  - 15 de noviembre de 2020, 21:00 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 15 de noviembre de 2020, 21:00/ | Error: setvar  
+14-05-2024 10:48:07 | ERROR | Bot: N-DescargarExamenes | Desc: Fallo al descargar el examen  - 15 de noviembre de 2020, 21:00 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 15 de noviembre de 2020, 21:00/ | Error: setvar  
+14-05-2024 10:48:09 | ERROR | Bot: N-DescargarExamenes | Desc: Fallo al descargar el examen  - 22 de octubre de 2020, 21:00 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 22 de octubre de 2020, 21:00/ | Error: setvar  
+14-05-2024 10:49:07 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen  - 7 de noviembre de 2019, 08:05 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 7 de noviembre de 2019, 08:05/
+14-05-2024 10:49:51 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen  - 6 de noviembre de 2019, 16:07 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 6 de noviembre de 2019, 16:07/
+14-05-2024 10:49:54 | ERROR | Bot: N-DescargarExamenes | Desc: Fallo al descargar el examen  - 29 de abril de 2019, 20:00 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 29 de abril de 2019, 20:00/ | Error: setvar  
+14-05-2024 10:49:54 | ERROR | Bot: N-DescargarExamenes | Desc: Fallo al descargar el examen  - 15 de marzo de 2019, 11:44 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 15 de marzo de 2019, 11:44/ | Error: setvar  
+14-05-2024 10:50:42 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen  - 10 de enero de 2019, 11:14 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 10 de enero de 2019, 11:14/
+14-05-2024 10:51:30 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen  - 14 de diciembre de 2018, 13:50 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 14 de diciembre de 2018, 13:50/
+14-05-2024 10:52:18 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen  - 12 de diciembre de 2018, 07:18 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 12 de diciembre de 2018, 07:18/
+14-05-2024 10:53:07 | TRACE | Bot: N-DescargarExamenes | Desc: Se descargo con exito el examen  - 6 de diciembre de 2018, 15:55 en la ruta /home/ubuntu/mihistoria/alemana/ERROR_NOT_VAR/Examenes/ - 6 de diciembre de 2018, 15:55/
+14-05-2024 10:53:13 | TRACE | Bot: N-DescargarDocumentos | Desc: Ingreso de forma correcta a la opcion de Documentos
+14-05-2024 10:53:23 | TRACE | Bot: N-DescargarDocumentos | Desc: Se encuentran {cant_nuevas} documentos para descargar.
+14-05-2024 10:53:23 | INFO | Bot: S-BackAlemana | Desc: Finalizo el proceso
