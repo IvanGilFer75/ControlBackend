@@ -1,0 +1,5 @@
+04-06-2024 09:27:47 | INFO | Bot: S-BackAndes | Desc: Inicio el proceso con éxito.
+04-06-2024 09:27:53 | TRACE | Bot: S-BackAndes | Desc: Pagina ingreso con éxito.
+04-06-2024 09:28:47 | TRACE | Bot: N-DescargarInforme | Desc: No se pudo descargar el informe Imagenología - Radiografía Rodilla Izquierda AP-L - 20-08-2020
+04-06-2024 09:47:42 | TRACE | Bot: N-DescargarImagen | Desc: Imágenes descargadas con éxito
+04-06-2024 09:49:22 | TRACE | Bot: N-DescargarInforme | Desc: Se descargo con éxito el informe Imagenología - Radiografía Rodilla Izquierda AP-L - 20-08-2020
